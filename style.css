@@ -1,0 +1,38 @@
+body    {         
+        background: url("../assets/images/1.JPG")no-repeat;
+        -webkit-background-size: 100%;
+        background-size: 100%;
+        background-attachment: fixed;   
+        position:relative;
+        }
+
+.slova  {
+        font-family: Rokkitt;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 85px;
+        margin-top: 15%;
+        line-height:20%;
+        text-indent: 150px;
+        color: #fff;
+        }
+
+.footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 80px;
+        background: url(images/2.png);
+        opacity:0.3;
+        display:flex;
+        }
+
+.fwords {
+        text-indent:80px;
+        }
+a
+        {
+        color: #ffffff;
+        text-decoration: none;
+        }
