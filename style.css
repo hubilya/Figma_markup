@@ -24,8 +24,8 @@ body    {
         width: 100%;
         height: 80px;
         background: url(images/2.png);
-        opacity:0.3;
         display:flex;
+        background: rgba(255, 255, 255, 0.3);
         }
 
 .fwords {
