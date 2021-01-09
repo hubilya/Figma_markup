@@ -36,3 +36,19 @@ a
         color: #ffffff;
         text-decoration: none;
         }
+/* Кнопка */
+.btn {
+     position: absolute;
+     width: 250px;
+     height: 45px;
+     left: 152px;
+     margin-top:2%;
+     color: black;
+     background: linear-gradient(180deg, #E1CD1B 0%, #33FF00 100%);
+     border-radius: 25px;
+  text-align:center;
+    font-weight: bold;
+font-size: 17px;
+    outline:inherit;
+        cursor:pointer;
+     }
